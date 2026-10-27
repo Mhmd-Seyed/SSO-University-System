@@ -8,7 +8,7 @@ Bu proje, ASP.NET Core Identity ve OpenIddict kullanılarak geliştirilen bir Me
 - **Backend:** ASP.NET Core, Identity, OpenIddict, Entity Framework Core, SQL Server
 - **Frontend:** React, TypeScript
 
-## 👥 Ekip ve Görev Dağılımı (4 Kişi)
+## 👥 Ekip ve Görev Dağılımı
 
 Proje 6 haftalık bir süreçte, backend iki takıma bölünerek, frontend ise ortaklaşa geliştirilecektir:
 
