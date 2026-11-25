@@ -1,0 +1,6 @@
+@SelcukSSO_HostAddress = http://localhost:5049
+
+GET {{SelcukSSO_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
